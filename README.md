@@ -101,8 +101,11 @@ The Top 10 Customers by Profit table provides a granular look at the company’s
 The combination of these dashboards uncovers several areas where Jayson Supplies Ltd. can take immediate action to improve its bottom line:
 
 **1. Address the "Table" Paradox:** The data shows that "Tables" are high-volume but high-loss. Management should conduct a pricing audit or renegotiate supplier contracts to ensure this category contributes to, rather than detracts from, total profit.
+
 **2. Reverse Underperformance in Machines:** "Machines" show both a YoY sales decline (highlighted by the orange dot) and a net loss. A strategic review is required to determine if this category should be discontinued or restructured.
+
 **3. Bridge the Loyalty Gap:** With 400 customers stuck at 1-2 orders, the marketing department should implement automated "Next Best Offer" email campaigns triggered after the second purchase to drive them toward the third-order milestone.
+
 **4. Operationalize Seasonality:** Since November is the "Highest Month" for sales across KPIs, the supply chain team should increase inventory levels starting in October to avoid stockouts during the peak.
 
 
