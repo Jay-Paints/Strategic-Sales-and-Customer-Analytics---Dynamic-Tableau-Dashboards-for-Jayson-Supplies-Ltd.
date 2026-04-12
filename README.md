@@ -43,7 +43,7 @@ The project followed a five-stage process to ensure technical excellence and bus
 * **Requirement Analysis:** Stakeholder needs were translated into specific chart types. Big Angry Numbers (BANs) were selected for immediate KPI recognition, while Bar-in-Bar charts were chosen for YoY comparisons and Diverging Bars for profit/loss analysis.
 * **Data Source Construction:** This involved connecting the data, creating a data model through relationships, and field renaming to ensure the data was understandable for end-users. 
 * **Advanced Chart Development:** Beyond basic visualizations, custom Calculated Fields were developed and tested. These enabled the creation of dynamic "Highest Month" and "Lowest Month" indicators on monthly sparklines, reducing the cognitive load on executives.
-* **Dashboard UI/UX Design:** A cohesive color palette was applied—featuring slate grey (#303030) for trends, blue (#1DA2D0) for positive markers, and orange (#FF5500) for performance alerts or losses. The container structure was built to ensure all content was distributed evenly and fit the "Entire View" for professional presentation.
+* **Dashboard UI/UX Design:** A cohesive color palette was applied, featuring slate grey (#303030) for trends, blue (#1DA2D0) for positive markers, and orange (#FF5500) for performance alerts or losses. The container structure was built to ensure all content was distributed evenly and fit the "Entire View" for professional presentation.
 * **Mobile Optimization:** As the final stage, the dashboards were specifically reformatted for mobile devices. This ensures that executives can access critical insights via smartphones with tailored layouts that prioritize readability on smaller screens.
 
 
