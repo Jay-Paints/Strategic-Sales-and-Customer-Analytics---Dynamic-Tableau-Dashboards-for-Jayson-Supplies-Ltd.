@@ -59,7 +59,7 @@ The project followed a five-stage process to ensure technical excellence and bus
 The completion of this project required a blend of technical proficiency and strategic thinking:
 
 * **Data Visualization & Storytelling:** Crafting intuitive interfaces that guide a user from high-level KPIs to granular, actionable insights.
-* **Tableau Proficiency:** Application of Calculated Fields, Level of Detail (LOD) expressions, sparklines, and interactive filtering.
+* **Tableau Proficiency:** Application of Calculated Fields, Parameters, Level of Detail (LOD) expressions, sparklines, and interactive filtering.
 * **UX/UI Design for Analytics:** Using color theory and container-based layouts to improve data legibility and user engagement.
 * **Mobile Business Intelligence:** Designing responsive layouts specifically for on-the-go executive consumption.
 * **Requirements Engineering:** Translating vague business needs into technical specifications and user stories.
@@ -110,7 +110,7 @@ The combination of these dashboards uncovers several areas where Jayson Supplies
   <em>Tooltip showing specific loss details for the "Machines" sub-category</em><br>
 </p>
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/a4e8b017-0aa1-4064-a989-d39a362f9455" width="300">
+  <img src="https://github.com/user-attachments/assets/a4e8b017-0aa1-4064-a989-d39a362f9455" width="500">
 </p>
 
 
