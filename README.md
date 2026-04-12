@@ -3,21 +3,22 @@
 ## Executive Summary
 Jayson Supplies Ltd. requires a transition from static reporting to a dynamic analytical ecosystem to navigate sales performance and customer loyalty effectively. This project delivers a suite of high-impact deliverables designed to transform transactional data from 2022 to 2025 into a strategic roadmap for growth.
 
-The primary deliverables included interactive Sales and Customer dashboards and a comprehensive **User Guide**. The **Sales Dashboard** serves as a diagnostic tool providing a comprehensive overview of sales metrics, enabling deep-dives into Year-over-Year (YoY) performance, seasonal trends, and product-level profitability. The **Customer Dashboard** offers a specialized interface for marketing and management teams to analyze customer segments, behavior, and loyalty metrics. By centralizing critical KPIs and seasonal trends, this solution empowers executives to pinpoint profit leakages and identify high-value customer segments, ensuring every marketing investment drives measurable growth. Click on [_Sales & Customer Dashboards_](https://public.tableau.com/app/profile/justice.paintsil/viz/SalesandCustomerDashboards_17758495140520/SalesDashboard) to interact with the dashboards on Tableau Public. 
+The primary deliverables included interactive Sales and Customer dashboards and a comprehensive **User Guide**. The **Sales Dashboard** serves as a diagnostic tool providing a comprehensive overview of sales metrics, enabling deep-dives into Year-over-Year (YoY) performance, seasonal trends, and product-level profitability. The **Customer Dashboard** offers a specialized interface for marketing and management teams to analyze customer segments, behavior, and loyalty metrics. By centralizing critical KPIs and seasonal trends, this solution empowers executives to pinpoint profit leakages and identify high-value customer segments, ensuring every marketing investment drives measurable growth. Click on [_Sales & Customer Dashboards_](https://public.tableau.com/app/profile/justice.paintsil/viz/SalesandCustomerDashboards_17758495140520/SalesDashboard) to interact with the dashboards on Tableau Public. Find the User Guide, Dashboard Building Process, and Requirements Elicitaion documents above this page.
 
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/a656a51c-a98d-4529-80b3-cc963bc197f7" width="1000">
-</p>
+
 <p align="center">
   <em>Full view of Sales Dashboard</em><br>
 </p>
-
-
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/8fc8de68-71e5-4a40-9398-be34eb4f6e5f" width="1000">
+  <img src="https://github.com/user-attachments/assets/a656a51c-a98d-4529-80b3-cc963bc197f7" width="800">
 </p>
+
+
 <p align="center">
   <em>Full view of Customer Dashboard</em><br>
+</p>
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/8fc8de68-71e5-4a40-9398-be34eb4f6e5f" width="800">
 </p>
 
 
@@ -45,11 +46,12 @@ The project followed a five-stage process to ensure technical excellence and bus
 * **Dashboard UI/UX Design:** A cohesive color palette was applied—featuring slate grey (#303030) for trends, blue (#1DA2D0) for positive markers, and orange (#FF5500) for performance alerts or losses. The container structure was built to ensure all content was distributed evenly and fit the "Entire View" for professional presentation.
 * **Mobile Optimization:** As the final stage, the dashboards were specifically reformatted for mobile devices. This ensures that executives can access critical insights via smartphones with tailored layouts that prioritize readability on smaller screens.
 
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/0d8ba840-8344-4a97-950d-c4b07dab6b2c" width="800">
-</p>
+
 <p align="center">
   <em>Mobile Phone view of Dashboards</em><br>
+</p>
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/0d8ba840-8344-4a97-950d-c4b07dab6b2c" width="600">
 </p>
 
 
@@ -66,12 +68,14 @@ The completion of this project required a blend of technical proficiency and str
 ## Sales Dashboard Deep Dive: Revenue and Performance
 The Sales Dashboard provides a diagnostic overview of the company's financial health. In 2025, the organization reached a Total Sales of $733K, representing a 20.4% increase over the previous year. While Total Profit also grew by 14.2% to $93K, the disparity between sales growth and profit growth suggests a need for operational efficiency reviews.
 
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/f12e0785-594a-4055-9230-34e1f09c068a" width="1000">
-</p>
+
 <p align="center">
   <em>Sales Dashboard KPI section with sparklines</em><br>
 </p>
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/f12e0785-594a-4055-9230-34e1f09c068a" width="800">
+</p>
+
 
 The dashboard uses Sparklines to show the month-over-month trend for the current year (black line) against the previous year (grey line). Automated markers highlight sales peak in November, while February represents a trough.
 
@@ -80,12 +84,14 @@ A critical component of this dashboard is the Sales and Profit by Category secti
 ## Customer Dashboard Deep Dive: Behavior and Loyalty
 The Customer Dashboard shifts the focus from "what was sold" to "who is buying". By 2025, the active customer base grew to 693 individuals, an 8.6% increase. More importantly, the Total Sales Per Customer rose by 10.8% to $1,058, indicating that the company is successfully extracting more value from its existing base.
 
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/49cc6c86-88c3-4988-a864-b8b4dfdcc107" width="1000">
-</p>
+
 <p align="center">
   <em>Customer Distribution by Order Quantity and Top 10 Customers</em><br>
 </p>
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/49cc6c86-88c3-4988-a864-b8b4dfdcc107" width="800">
+</p>
+
 
 Analytical thinking is best demonstrated in the Customer Distribution by Order Quantity chart. The visualization reveals a significant hurdle: 400 customers (nearly 58% of the base) have placed only one or two orders. This insight identifies a massive opportunity for the marketing team to convert these "one-hit wonders" into repeat buyers.
 
@@ -99,11 +105,12 @@ The combination of these dashboards uncovers several areas where Jayson Supplies
 **3. Bridge the Loyalty Gap:** With 400 customers stuck at 1-2 orders, the marketing department should implement automated "Next Best Offer" email campaigns triggered after the second purchase to drive them toward the third-order milestone.
 **4. Operationalize Seasonality:** Since November is the "Highest Month" for sales across KPIs, the supply chain team should increase inventory levels starting in October to avoid stockouts during the peak.
 
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/a4e8b017-0aa1-4064-a989-d39a362f9455" width="1000">
-</p>
+
 <p align="center">
   <em>Tooltip showing specific loss details for the "Machines" sub-category</em><br>
+</p>
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/a4e8b017-0aa1-4064-a989-d39a362f9455" width="300">
 </p>
 
 
