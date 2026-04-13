@@ -32,17 +32,17 @@ The primary objective was to build a diagnostic tool capable of answering critic
 ### Source of Dataset
 The analysis used a comprehensive sales dataset sourced from GitHub. The data reflects consistent reporting across all regions from 2022 to 2025. For the purpose of this analysis, it was assumed that data integrity was maintained across all transaction types to allow for a seamless 24-hour refresh cycle reflecting the previous day’s close.
 
-### Technical Stack
+### Tech Stack
 * **Tableau Desktop & Cloud:** The primary engine for visualization, advanced calculations, and interactive data exploration.
+* **Transactional Database:** The core repository for all sales and customer records.
 * **Google Drawings:** Employed during the initial mockup phase to define container structures and the user interface (UI) flow.
-* **Calculated Fields:** Used to create dynamic Year-over-Year comparisons and automated peak/trough identifiers.
 
 ### Dashboard Building Process
 The project followed a five-stage process to ensure technical excellence and business alignment:
 
 * **Requirement Analysis:** Stakeholder needs were translated into specific chart types. Big Angry Numbers (BANs) were selected for immediate KPI recognition, while Bar-in-Bar charts were chosen for YoY comparisons and Diverging Bars for profit/loss analysis.
 * **Data Source Construction:** This involved connecting the data, creating a data model through relationships, and field renaming to ensure the data was understandable for end-users. 
-* **Advanced Chart Development:** Beyond basic visualizations, custom Calculated Fields were developed and tested. These enabled the creation of dynamic "Highest Month" and "Lowest Month" indicators on monthly sparklines, reducing the cognitive load on executives.
+* **Advanced Chart Development:** Beyond basic visualizations, Calculated Fields were developed and tested. These enabled the creation of dynamic Year-over-Year comparisons and automated peak/trough identifiers, and "Highest Month" and "Lowest Month" indicators on monthly sparklines, reducing the cognitive load on executives.
 * **Dashboard UI/UX Design:** A cohesive color palette was applied, featuring slate grey (#303030) for trends, blue (#1DA2D0) for positive markers, and orange (#FF5500) for performance alerts or losses. The container structure was built to ensure all content was distributed evenly and fit the "Entire View" for professional presentation.
 * **Mobile Optimization:** As the final stage, the dashboards were specifically reformatted for mobile devices. This ensures that executives can access critical insights via smartphones with tailored layouts that prioritize readability on smaller screens.
 
