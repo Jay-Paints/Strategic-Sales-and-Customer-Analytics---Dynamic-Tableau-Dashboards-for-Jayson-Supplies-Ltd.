@@ -3,14 +3,14 @@
 ## Executive Summary
 Jayson Supplies Ltd. requires a transition from static reporting to a dynamic analytical ecosystem to navigate sales performance and customer loyalty effectively. This project delivers a suite of high-impact deliverables designed to transform transactional data from 2022 to 2025 into a strategic roadmap for growth.
 
-The primary deliverables included interactive Sales and Customer dashboards and a comprehensive **User Guide**. The **Sales Dashboard** serves as a diagnostic tool providing a comprehensive overview of sales metrics, enabling deep-dives into Year-over-Year (YoY) performance, seasonal trends, and product-level profitability. The **Customer Dashboard** offers a specialized interface for marketing and management teams to analyze customer segments, behavior, and loyalty metrics. By centralizing critical KPIs and seasonal trends, this solution empowers executives to pinpoint profit leakages and identify high-value customer segments, ensuring every marketing investment drives measurable growth. Click on [_Sales & Customer Dashboards_](https://public.tableau.com/app/profile/justice.paintsil/viz/SalesandCustomerDashboards_17758495140520/SalesDashboard) to interact with the dashboards on Tableau Public. Find the User Guide, Dashboard Building Process, and Requirements Elicitaion documents above this page.
+The primary deliverables included interactive Sales and Customer dashboards and a comprehensive **User Guide**. The **Sales Dashboard** serves as a diagnostic tool providing a comprehensive overview of sales metrics, enabling deep-dives into Year-over-Year (YoY) performance, seasonal trends, and product-level profitability. The **Customer Dashboard** offers a specialized interface for marketing and management teams to analyze customer segments, behavior, and loyalty metrics. By centralizing critical KPIs and seasonal trends, this solution empowers executives to pinpoint profit leakages and identify high-value customer segments, ensuring every marketing investment drives measurable growth. Click on [_Sales & Customer Dashboards_](https://public.tableau.com/app/profile/justice.paintsil/viz/SalesandCustomerDashboards_17758495140520/SalesDashboard) to interact with the dashboards on Tableau Public. Find the User Guide, Dashboard Building Process, and Requirements Elicitaion Document at the top this page.
 
 
 <p align="center">
   <em>Full view of Sales Dashboard</em><br>
 </p>
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/a656a51c-a98d-4529-80b3-cc963bc197f7" width="800">
+  <img src="https://github.com/user-attachments/assets/9d3af7dc-dbd2-484c-a930-6aa05fb3971e" width="800">
 </p>
 
 
@@ -18,7 +18,7 @@ The primary deliverables included interactive Sales and Customer dashboards and 
   <em>Full view of Customer Dashboard</em><br>
 </p>
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/8fc8de68-71e5-4a40-9398-be34eb4f6e5f" width="800">
+  <img src="https://github.com/user-attachments/assets/f854437c-cf99-4ea5-8282-697dfd6b3ee1" width="800">
 </p>
 
 
@@ -86,10 +86,10 @@ The Customer Dashboard shifts the focus from "what was sold" to "who is buying".
 
 
 <p align="center">
-  <em>Customer Distribution by Order Quantity and Top 10 Customers</em><br>
+  <em>Customer Distribution by Order Quantity and Top 10 Customers by Profit</em><br>
 </p>
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/49cc6c86-88c3-4988-a864-b8b4dfdcc107" width="800">
+  <img src="https://github.com/user-attachments/assets/fc69600d-aba2-404a-bf8f-d02eb676449c" width="800">
 </p>
 
 
