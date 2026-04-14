@@ -119,3 +119,11 @@ The combination of these dashboards uncovers several areas where Jayson Supplies
 
 ## Conclusion
 This project delivers more than just visualizations; it provides a comprehensive decision-support system. By automating the data flow and providing mobile-optimized, interactive views, the dashboards save hours of manual reporting time each week. The inclusion of a detailed User Guide ensures that stakeholders can independently navigate filters, utilize tooltips for granular details, and export high-quality snapshots for board presentations. Ultimately, the value of this analysis lies in its ability to move the organization from reactive observation to proactive strategy. Jayson Supplies Ltd. now has the clarity to minimize losses in underperforming product categories and maximize the lifetime value of every customer, ensuring sustainable growth through 2025 and beyond.
+
+
+<p align="center">
+  <em>The Filter Panel showing drill-down capabilities by Year, Product, and Location</em><br>
+</p>
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/81486ac0-bc58-4e75-8c84-4804e9d46cc5" width="800">
+</p>
