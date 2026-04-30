@@ -1,9 +1,9 @@
-# Strategic Sales and Customer Analytics: Dynamic Tableau Dashboards for Jayson Supplies Ltd.
+# Sales and Customer Analytics: Dynamic Tableau Dashboards for Jayson Supplies Ltd.
 
 ## Executive Summary
-Jayson Supplies Ltd. requires a transition from static reporting to a dynamic analytical ecosystem to navigate sales performance and customer loyalty effectively. This project delivers a suite of high-impact deliverables designed to transform transactional data from 2022 to 2025 into a strategic roadmap for growth.
+Jayson Supplies Ltd. requires a transition from static reporting to dynamic analytical dashboards to navigate sales performance and customer loyalty effectively. This project delivers a suite of high-impact deliverables designed to transform transactional data from 2022 to 2025 into a strategic roadmap for growth.
 
-The primary deliverables included interactive Sales and Customer dashboards and a comprehensive **User Guide**. The **Sales Dashboard** serves as a diagnostic tool providing a comprehensive overview of sales metrics, enabling deep-dives into Year-over-Year (YoY) performance, seasonal trends, and product-level profitability. The **Customer Dashboard** offers a specialized interface for marketing and management teams to analyze customer segments, behavior, and loyalty metrics. By centralizing critical KPIs and seasonal trends, this solution empowers executives to pinpoint profit leakages and identify high-value customer segments, ensuring every marketing investment drives measurable growth. Click on [_Sales & Customer Dashboards_](https://public.tableau.com/app/profile/justice.paintsil/viz/SalesandCustomerDashboards_17758495140520/SalesDashboard) to interact with the dashboards on Tableau Public. Find the User Guide, Dashboard Building Process, and Requirements Elicitaion Document at the top this page.
+The primary deliverables include interactive Sales and Customer dashboards and a comprehensive **User Guide**. The **Sales Dashboard** serves as a diagnostic tool providing a comprehensive overview of sales metrics, enabling deep-dives into Year-over-Year (YoY) performance, seasonal trends, and product-level profitability. The **Customer Dashboard** offers a specialized interface for marketing and management teams to analyze customer segments, behavior, and loyalty metrics. By centralizing critical KPIs and seasonal trends, this solution empowers executives to pinpoint profit leakages and identify high-value customer segments, ensuring every marketing investment drives measurable growth. Click on [_Sales & Customer Dashboards_](https://public.tableau.com/app/profile/justice.paintsil/viz/SalesandCustomerDashboards_17758495140520/SalesDashboard) to interact with the dashboards on Tableau Public. Find the User Guide, Dashboard Building Process, and Requirements Elicitaion Document at the top this page.
 
 
 <p align="center">
@@ -29,7 +29,7 @@ The primary objective was to build a diagnostic tool capable of answering critic
 
 ## Tools and Methodology: The Analytical Journey
 
-### Source of Dataset
+### Source of Datasets
 The analysis used a comprehensive sales dataset sourced from GitHub. The data reflects consistent reporting across all regions from 2022 to 2025. For the purpose of this analysis, it was assumed that data integrity was maintained across all transaction types to allow for a seamless 24-hour refresh cycle reflecting the previous day’s close.
 
 ### Tech Stack
@@ -40,7 +40,7 @@ The analysis used a comprehensive sales dataset sourced from GitHub. The data re
 ### Dashboard Building Process
 The project followed a five-stage process to ensure technical excellence and business alignment:
 
-* **Requirement Analysis:** Stakeholder needs were translated into specific chart types. Big Angry Numbers (BANs) were selected for immediate KPI recognition, while Bar-in-Bar charts were chosen for YoY comparisons and Diverging Bars for profit/loss analysis.
+* **Requirement Analysis:** Stakeholder needs were translated into specific chart types. Big Ass Numbers (BANs) were selected for immediate KPI recognition, while Bar-in-Bar charts were chosen for YoY comparisons and Diverging Bars for profit/loss analysis.
 * **Data Source Construction:** This involved connecting the data, creating a data model through relationships, and field renaming to ensure the data was understandable for end-users. 
 * **Advanced Chart Development:** Beyond basic visualizations, Calculated Fields were developed and tested. These enabled the creation of dynamic Year-over-Year comparisons and automated peak/trough identifiers, and "Highest Month" and "Lowest Month" indicators on monthly sparklines, reducing the cognitive load on executives.
 * **Dashboard UI/UX Design:** A cohesive color palette was applied, featuring slate grey (#303030) for trends, blue (#1DA2D0) for positive markers, and orange (#FF5500) for performance alerts or losses. The container structure was built to ensure all content was distributed evenly and fit the "Entire View" for professional presentation.
